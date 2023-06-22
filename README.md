@@ -18,7 +18,7 @@ Make sure you have Python 3.x installed on your system. If not, you can download
 Install the required Python library, pynput, by running `pip install pynput` in your terminal.
 
 #### Run the Script 
-Navigate to the cloned repository and run the script by typing `python mouse_jiggle.py` in your terminal.
+Navigate to the cloned repository and run the script by typing `python3 mouse_jiggle.py` in your terminal.
 
 #### Controlling mouse-jiggler
 After you start mouse-jiggler, you can press 'p' to pause/resume the mouse movements and 's' to stop the program entirely.
